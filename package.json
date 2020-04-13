@@ -1,6 +1,6 @@
 {
   "name": "iz3-basic-crypto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IZZZIO blockchain internal cryptography",
   "main": "index.js",
   "dependencies": {
